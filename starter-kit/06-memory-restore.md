@@ -132,11 +132,11 @@ type: reference
 ---
 ## 部署平台
 - **平台**：Render（Free tier）
-- **服務 URL**：https://clubos-line-bot.onrender.com
-- **Webhook URL**：https://clubos-line-bot.onrender.com/webhook
+- **服務 URL**：YOUR_RENDER_SERVICE_URL
+- **Webhook URL**：YOUR_RENDER_SERVICE_URL/webhook
 
 ## GitHub Repo
-- **Repo**：https://github.com/DeanSolar999/clubos-line-bot (Private)
+- **Repo**：https://github.com/YOUR_GITHUB_USERNAME/YOUR_LINE_BOT_REPO (Private)
 - **Branch**：main
 - **自動部署**：push 到 main 後 Render 自動重新部署
 

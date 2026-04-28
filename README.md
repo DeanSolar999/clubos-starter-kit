@@ -13,7 +13,7 @@ claude
 然後貼上以下指令：
 
 ```
-請讀取 https://github.com/DeanSolar999/clubos-starter-kit 的 starter-kit 資料夾，依照 01 到 06 的順序幫我完成所有環境設定。
+請讀取 https://github.com/DeanSolar999/clubos-starter-kit 的 starter-kit 資料夾，依照 01 到 07 的順序幫我完成所有環境設定。
 ```
 
 Claude Code 會自動依序執行每個步驟。
@@ -28,6 +28,7 @@ Claude Code 會自動依序執行每個步驟。
 | 04 | [safety-settings](starter-kit/04-safety-settings.md) | 20 條危險指令黑名單、權限模式 |
 | 05 | [claude-md](starter-kit/05-claude-md.md) | CLAUDE.md 核心行為指令集 |
 | 06 | [memory-restore](starter-kit/06-memory-restore.md) | Memory 系統還原（9 個記憶檔案） |
+| 07 | [agent-team](starter-kit/07-agent-team.md) | Agent Team 4 人編制定義檔與調度規則 |
 
 ## 前提條件
 
